@@ -1,0 +1,25 @@
+/* Additional CSS for GitHub profile README */
+.profile-badge {
+    display: inline-block;
+    background: #1a1a1a;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    border: 1px solid #333;
+}
+
+.research-card {
+    background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #30363d;
+}
+
+.warning-box {
+    background: #fffbdd;
+    border: 1px solid #f0c000;
+    color: #856404;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
